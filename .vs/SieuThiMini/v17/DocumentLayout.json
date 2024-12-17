@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|d:\\study\\l\u1EADp tr\u00ECnh c#\\project\\sieuthimini\\sieuthimini\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|solutionrelative:sieuthimini\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\sieuthimini\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|solutionrelative:sieuthimini\\bll\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\sieuthimini\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|solutionrelative:sieuthimini\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\sieuthimini\\gui\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|solutionrelative:sieuthimini\\gui\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\sieuthimini\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F34E5B-ED16-4456-98BA-0FB67FCCE321}|SieuThiMini\\SieuThiMini.csproj|solutionrelative:sieuthimini\\dto\\taikhoandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 629,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "SieuThiMini\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "SieuThiMini\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:00:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "SieuThiMini\\DTO\\NhanVienDTO.cs",
+              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "SieuThiMini\\DTO\\NhanVienDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:29:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienBLL.cs",
+              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\BLL\\NhanVienBLL.cs",
+              "RelativeDocumentMoniker": "SieuThiMini\\BLL\\NhanVienBLL.cs",
+              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\BLL\\NhanVienBLL.cs",
+              "RelativeToolTip": "SieuThiMini\\BLL\\NhanVienBLL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:29:43.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyTaiKhoan.cs",
+              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\GUI\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "SieuThiMini\\GUI\\QuanLyTaiKhoan.cs",
+              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\GUI\\QuanLyTaiKhoan.cs",
+              "RelativeToolTip": "SieuThiMini\\GUI\\QuanLyTaiKhoan.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-07T22:46:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoanDTO.cs",
+              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DTO\\TaiKhoanDTO.cs",
+              "RelativeDocumentMoniker": "SieuThiMini\\DTO\\TaiKhoanDTO.cs",
+              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh C#\\Project\\SieuThiMini\\SieuThiMini\\DTO\\TaiKhoanDTO.cs",
+              "RelativeToolTip": "SieuThiMini\\DTO\\TaiKhoanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-07T22:46:22.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
